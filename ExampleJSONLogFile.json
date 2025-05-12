@@ -1,0 +1,4207 @@
+{
+  "timestamp": "2025-04-25 18:26:25",
+  "total_processes": 416,
+  "anomaly_count": 420,
+  "anomalies": [
+    {
+      "id": 1,
+      "sensor": "systemd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.0933301175021107,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2,
+      "sensor": "kthreadd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3,
+      "sensor": "pool_workqueue_release",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 4,
+      "sensor": "kworker/R-rcu_gp",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5,
+      "sensor": "kworker/R-sync_wq",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 6,
+      "sensor": "kworker/R-slub_flushwq",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 7,
+      "sensor": "kworker/R-netns",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9,
+      "sensor": "kworker/0:1-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10,
+      "sensor": "kworker/0:0H-events_highpri",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 12,
+      "sensor": "kworker/R-mm_percpu_wq",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 13,
+      "sensor": "rcu_tasks_kthread",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 14,
+      "sensor": "rcu_tasks_rude_kthread",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 15,
+      "sensor": "rcu_tasks_trace_kthread",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 16,
+      "sensor": "ksoftirqd/0",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 17,
+      "sensor": "rcu_preempt",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 18,
+      "sensor": "rcu_exp_par_gp_kthread_worker/0",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 19,
+      "sensor": "rcu_exp_gp_kthread_worker",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 20,
+      "sensor": "migration/0",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 21,
+      "sensor": "idle_inject/0",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 22,
+      "sensor": "cpuhp/0",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 23,
+      "sensor": "cpuhp/2",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 24,
+      "sensor": "idle_inject/2",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 25,
+      "sensor": "migration/2",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 26,
+      "sensor": "ksoftirqd/2",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 28,
+      "sensor": "kworker/2:0H-events_highpri",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 29,
+      "sensor": "cpuhp/4",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 30,
+      "sensor": "idle_inject/4",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 31,
+      "sensor": "migration/4",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 32,
+      "sensor": "ksoftirqd/4",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 34,
+      "sensor": "kworker/4:0H-events_highpri",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 35,
+      "sensor": "cpuhp/6",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 36,
+      "sensor": "idle_inject/6",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 37,
+      "sensor": "migration/6",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 38,
+      "sensor": "ksoftirqd/6",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 40,
+      "sensor": "kworker/6:0H-events_highpri",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 41,
+      "sensor": "cpuhp/8",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 42,
+      "sensor": "idle_inject/8",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 43,
+      "sensor": "migration/8",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 44,
+      "sensor": "ksoftirqd/8",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 46,
+      "sensor": "kworker/8:0H-events_highpri",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 47,
+      "sensor": "cpuhp/10",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 48,
+      "sensor": "idle_inject/10",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 49,
+      "sensor": "migration/10",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 50,
+      "sensor": "ksoftirqd/10",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 52,
+      "sensor": "kworker/10:0H-events_highpri",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 53,
+      "sensor": "cpuhp/12",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 54,
+      "sensor": "idle_inject/12",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 55,
+      "sensor": "migration/12",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 56,
+      "sensor": "ksoftirqd/12",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 57,
+      "sensor": "kworker/12:0-mm_percpu_wq",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 58,
+      "sensor": "kworker/12:0H-events_highpri",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 59,
+      "sensor": "cpuhp/14",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 60,
+      "sensor": "idle_inject/14",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 61,
+      "sensor": "migration/14",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 62,
+      "sensor": "ksoftirqd/14",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 64,
+      "sensor": "kworker/14:0H-events_highpri",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 65,
+      "sensor": "cpuhp/1",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 66,
+      "sensor": "idle_inject/1",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 67,
+      "sensor": "migration/1",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 68,
+      "sensor": "ksoftirqd/1",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 70,
+      "sensor": "kworker/1:0H-events_highpri",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 71,
+      "sensor": "cpuhp/3",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 72,
+      "sensor": "idle_inject/3",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 73,
+      "sensor": "migration/3",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 74,
+      "sensor": "ksoftirqd/3",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 76,
+      "sensor": "kworker/3:0H-events_highpri",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 77,
+      "sensor": "cpuhp/5",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 78,
+      "sensor": "idle_inject/5",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 79,
+      "sensor": "migration/5",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 80,
+      "sensor": "ksoftirqd/5",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 82,
+      "sensor": "kworker/5:0H-events_highpri",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 83,
+      "sensor": "cpuhp/7",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 84,
+      "sensor": "idle_inject/7",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 85,
+      "sensor": "migration/7",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 86,
+      "sensor": "ksoftirqd/7",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 88,
+      "sensor": "kworker/7:0H-events_highpri",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 89,
+      "sensor": "cpuhp/9",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 90,
+      "sensor": "idle_inject/9",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 91,
+      "sensor": "migration/9",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 92,
+      "sensor": "ksoftirqd/9",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 94,
+      "sensor": "kworker/9:0H-events_highpri",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 95,
+      "sensor": "cpuhp/11",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 96,
+      "sensor": "idle_inject/11",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 97,
+      "sensor": "migration/11",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 98,
+      "sensor": "ksoftirqd/11",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 100,
+      "sensor": "kworker/11:0H-events_highpri",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 101,
+      "sensor": "cpuhp/13",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 102,
+      "sensor": "idle_inject/13",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 103,
+      "sensor": "migration/13",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 104,
+      "sensor": "ksoftirqd/13",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 106,
+      "sensor": "kworker/13:0H-events_highpri",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 107,
+      "sensor": "cpuhp/15",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 108,
+      "sensor": "idle_inject/15",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 109,
+      "sensor": "migration/15",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 110,
+      "sensor": "ksoftirqd/15",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 112,
+      "sensor": "kworker/15:0H-events_highpri",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 115,
+      "sensor": "kdevtmpfs",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 116,
+      "sensor": "kworker/R-inet_frag_wq",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 118,
+      "sensor": "kauditd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 119,
+      "sensor": "khungtaskd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 120,
+      "sensor": "oom_reaper",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 122,
+      "sensor": "kworker/R-writeback",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 123,
+      "sensor": "kcompactd0",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 124,
+      "sensor": "ksmd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 125,
+      "sensor": "khugepaged",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 126,
+      "sensor": "kworker/R-kintegrityd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 127,
+      "sensor": "kworker/R-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 128,
+      "sensor": "kworker/R-blkcg_punt_bio",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 129,
+      "sensor": "irq/9-acpi",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 132,
+      "sensor": "kworker/R-tpm_dev_wq",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 133,
+      "sensor": "kworker/R-ata_sff",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 135,
+      "sensor": "kworker/R-md",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 136,
+      "sensor": "kworker/R-md_bitmap",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 137,
+      "sensor": "kworker/R-edac-poller",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 138,
+      "sensor": "kworker/R-devfreq_wq",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 139,
+      "sensor": "watchdogd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 140,
+      "sensor": "kworker/1:1H-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 141,
+      "sensor": "irq/25-AMD-Vi0-Evt",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 142,
+      "sensor": "irq/26-AMD-Vi0-PPR",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 143,
+      "sensor": "irq/27-AMD-Vi0-GA",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 144,
+      "sensor": "kswapd0",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 145,
+      "sensor": "ecryptfs-kthread",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 146,
+      "sensor": "kworker/R-kthrotld",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 147,
+      "sensor": "irq/36-pciehp",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 148,
+      "sensor": "kworker/R-acpi_thermal_pm",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 149,
+      "sensor": "kworker/u65:3-flush-259:0",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 150,
+      "sensor": "kworker/5:1-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 151,
+      "sensor": "kworker/3:1-cgroup_destroy",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 153,
+      "sensor": "kworker/R-mld",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 154,
+      "sensor": "kworker/7:1H-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 155,
+      "sensor": "kworker/R-ipv6_addrconf",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 164,
+      "sensor": "kworker/R-kstrp",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 170,
+      "sensor": "kworker/u67:0",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 188,
+      "sensor": "kworker/R-charger_manager",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 189,
+      "sensor": "irq/28-ACPI:Event",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 190,
+      "sensor": "irq/29-ACPI:Event",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 191,
+      "sensor": "kworker/0:1H-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 192,
+      "sensor": "irq/30-ACPI:Event",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 193,
+      "sensor": "irq/31-ACPI:Event",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 194,
+      "sensor": "irq/32-ACPI:Event",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 195,
+      "sensor": "irq/33-ACPI:Event",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 196,
+      "sensor": "irq/34-ACPI:Event",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 197,
+      "sensor": "irq/35-ACPI:Event",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 221,
+      "sensor": "kworker/11:1H-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 224,
+      "sensor": "kworker/4:1H-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 242,
+      "sensor": "kworker/3:1H-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 244,
+      "sensor": "kworker/13:1H-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 257,
+      "sensor": "kworker/9:1H-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 258,
+      "sensor": "kworker/13:1-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 259,
+      "sensor": "kworker/2:1H-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 260,
+      "sensor": "kworker/8:1H-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 261,
+      "sensor": "kworker/10:1H-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 262,
+      "sensor": "kworker/12:1H-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 263,
+      "sensor": "kworker/14:1H-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 264,
+      "sensor": "kworker/5:1H-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 265,
+      "sensor": "kworker/15:1H-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 266,
+      "sensor": "kworker/6:1H-kblockd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 310,
+      "sensor": "kworker/8:2-cgroup_destroy",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 331,
+      "sensor": "kworker/7:1-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 346,
+      "sensor": "irq/62-ELAN1203:00",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 347,
+      "sensor": "kworker/R-nvme-wq",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 348,
+      "sensor": "kworker/R-nvme-reset-wq",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 349,
+      "sensor": "kworker/R-nvme-delete-wq",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 350,
+      "sensor": "kworker/R-nvme-auth-wq",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 351,
+      "sensor": "kworker/R-USBC000:00-con1",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 359,
+      "sensor": "kworker/15:1-cgroup_destroy",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 397,
+      "sensor": "jbd2/nvme0n1p4-8",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 398,
+      "sensor": "kworker/R-ext4-rsv-conversion",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 447,
+      "sensor": "systemd-journald",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.11283306868665503,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 553,
+      "sensor": "systemd-udevd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.05369017900868706,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 608,
+      "sensor": "psimon",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 697,
+      "sensor": "kworker/R-asus_wireless_workqueue",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 748,
+      "sensor": "kworker/R-cryptd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 752,
+      "sensor": "kworker/R-cfg80211",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 793,
+      "sensor": "kworker/R-led_workqueue",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 801,
+      "sensor": "kworker/15:2-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 814,
+      "sensor": "napi/phy0-8194",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 815,
+      "sensor": "napi/phy0-8195",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 816,
+      "sensor": "napi/phy0-8196",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 832,
+      "sensor": "mt76-tx phy0",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 835,
+      "sensor": "kworker/R-amdgpu-reset-dev",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 851,
+      "sensor": "nv_queue",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 852,
+      "sensor": "nv_queue",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 858,
+      "sensor": "kworker/R-ttm",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 994,
+      "sensor": "systemd-oomd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.047578070770097736,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 995,
+      "sensor": "nvidia-modeset/kthread_q",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 996,
+      "sensor": "nvidia-modeset/deferred_close_kthread_q",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 998,
+      "sensor": "systemd-resolved",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.08348987685243164,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1000,
+      "sensor": "systemd-timesyncd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.048541805679086926,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1009,
+      "sensor": "irq/105-nvidia",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1010,
+      "sensor": "nvidia",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1011,
+      "sensor": "nv_queue",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1078,
+      "sensor": "avahi-daemon",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.027136746121537623,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1079,
+      "sensor": "dbus-daemon",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.04151668542145522,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1082,
+      "sensor": "gnome-remote-desktop-daemon",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.10020306908990202,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1085,
+      "sensor": "lttng-sessiond",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.06264276908429713,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1086,
+      "sensor": "polkitd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.0724830097339762,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1090,
+      "sensor": "power-profiles-daemon",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.04955626347802291,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1100,
+      "sensor": "snapd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.2163838485130458,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1104,
+      "sensor": "accounts-daemon",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.048440359899193326,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1106,
+      "sensor": "cron",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.017676927146459555,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1107,
+      "sensor": "switcheroo-control",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.04108554085690743,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1109,
+      "sensor": "lttng-runas",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.013238674276114616,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1123,
+      "sensor": "systemd-logind",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.05589662472137283,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1131,
+      "sensor": "udisksd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.09571409332961027,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1145,
+      "sensor": "avahi-daemon",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.00783668649678049,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1146,
+      "sensor": "NetworkManager",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 0.1225972250014139,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1148,
+      "sensor": "wpa_supplicant",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.06870415443293965,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1189,
+      "sensor": "rsyslogd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 0.03738276989079108,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1278,
+      "sensor": "ModemManager",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.07755529872865612,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1349,
+      "sensor": "kworker/R-amdgpu_dm_hpd_rx_offload_wq",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1350,
+      "sensor": "kworker/R-amdgpu_dm_hpd_rx_offload_wq",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1351,
+      "sensor": "kworker/R-dm_vblank_control_workqueue",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1352,
+      "sensor": "card1-crtc0",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1353,
+      "sensor": "card1-crtc1",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1354,
+      "sensor": "card1-crtc2",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1355,
+      "sensor": "card1-crtc3",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1720,
+      "sensor": "UVM global queue",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1721,
+      "sensor": "UVM deferred release queue",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1722,
+      "sensor": "UVM Tools Event Queue",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1726,
+      "sensor": "nvidia-persistenced",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.01295969838140722,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1729,
+      "sensor": "cupsd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.07408078076730037,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1737,
+      "sensor": "unattended-upgr",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.1582554166340138,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1754,
+      "sensor": "gdm3",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.05546548015682503,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1761,
+      "sensor": "mysqld",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 2.5090838355533474,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1769,
+      "sensor": "psimon",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 1846,
+      "sensor": "rtkit-daemon",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.021049999327921707,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2046,
+      "sensor": "colord",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.09178306935873333,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2137,
+      "sensor": "upowerd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.059041443898074385,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2428,
+      "sensor": "gdm-session-worker",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.06558469670121149,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2442,
+      "sensor": "cups-browsed",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.12602102007282287,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2445,
+      "sensor": "kerneloops",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.012655361041726425,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2448,
+      "sensor": "kerneloops",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.013974156180343207,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2469,
+      "sensor": "systemd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.08544270811538342,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2474,
+      "sensor": "(sd-pam)",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.023307167930554276,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2486,
+      "sensor": "pipewire",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.09809806915710984,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2488,
+      "sensor": "pipewire",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.03664728798656249,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2492,
+      "sensor": "wireplumber",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.12041614073370152,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2494,
+      "sensor": "pipewire-pulse",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.12695939353683863,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2496,
+      "sensor": "gnome-keyring-daemon",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.06317535942873852,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2505,
+      "sensor": "dbus-daemon",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.037154516886030484,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2528,
+      "sensor": "xdg-document-portal",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.04666505875105535,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2541,
+      "sensor": "xdg-permission-store",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.038143613239993074,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2551,
+      "sensor": "fusermount3",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.01227493936712543,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2600,
+      "sensor": "gdm-x-session",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.037129155441057084,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2606,
+      "sensor": "Xorg",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 3.5,
+      "sensor_02": 1.374590317558261,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2673,
+      "sensor": "gnome-session-binary",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.10309427381686956,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2760,
+      "sensor": "at-spi-bus-launcher",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.0502663839372781,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2761,
+      "sensor": "snapd-desktop-integration",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.07534885301597036,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2768,
+      "sensor": "dbus-daemon",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.03142283032204216,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2833,
+      "sensor": "snapd-desktop-integration",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.7222178685075018,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2835,
+      "sensor": "gcr-ssh-agent",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.04268331189023161,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2836,
+      "sensor": "gnome-session-ctl",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.0356581916325999,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2850,
+      "sensor": "gvfsd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.047857046664805135,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2858,
+      "sensor": "gvfsd-fuse",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.044686866043130186,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2861,
+      "sensor": "gnome-session-binary",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.11227511689724025,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2904,
+      "sensor": "gnome-shell",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 2.4,
+      "sensor_02": 2.154251858930513,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2956,
+      "sensor": "mutter-x11-frames",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 1.1,
+      "sensor_02": 0.8870418993896262,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2959,
+      "sensor": "at-spi2-registryd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.0504946369420387,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 2993,
+      "sensor": "gnome-shell-calendar-server",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.10738035801737413,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3001,
+      "sensor": "evolution-source-registry",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.5614009459311746,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3009,
+      "sensor": "dconf-service",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.03771246867544528,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3017,
+      "sensor": "gjs",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.1653058983366189,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3040,
+      "sensor": "ibus-daemon",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.07496843134136935,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3041,
+      "sensor": "gsd-a11y-settings",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.04095873363204043,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3045,
+      "sensor": "gsd-color",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.15528812757212604,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3047,
+      "sensor": "gsd-datetime",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.07610969636517234,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3049,
+      "sensor": "gsd-housekeeping",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.04904903457855492,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3051,
+      "sensor": "gsd-keyboard",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.15067234458696732,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3053,
+      "sensor": "gsd-media-keys",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.18265312669842426,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3055,
+      "sensor": "gsd-power",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.1723817414841974,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3060,
+      "sensor": "gsd-print-notifications",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.07030192546626382,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3061,
+      "sensor": "gsd-rfkill",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.03905662525903546,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3064,
+      "sensor": "gsd-screensaver-proxy",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.03692626388126989,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3068,
+      "sensor": "gsd-sharing",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.07045409413610422,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3072,
+      "sensor": "gsd-smartcard",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.048972950243634725,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3075,
+      "sensor": "goa-daemon",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.14866879043406875,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3076,
+      "sensor": "gsd-sound",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.05934578123775518,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3079,
+      "sensor": "gsd-wacom",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.15551638057688663,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3087,
+      "sensor": "gsd-xsettings",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.16801957294877268,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3088,
+      "sensor": "gsd-disk-utility-notify",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.05133156462616089,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3097,
+      "sensor": "gvfs-udisks2-volume-monitor",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.07309168441333778,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3098,
+      "sensor": "evolution-alarm-notify",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.6773534723495578,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3149,
+      "sensor": "ibus-dconf",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.04392602269392819,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3153,
+      "sensor": "ibus-extension-gtk3",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.19690625877347487,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3164,
+      "sensor": "ibus-x11",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.14975933256792492,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3171,
+      "sensor": "ibus-portal",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.04461078170820998,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3215,
+      "sensor": "goa-identity-service",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.054679275362649646,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3255,
+      "sensor": "gsd-printer",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.09566337043966347,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3259,
+      "sensor": "evolution-calendar-factory",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.1494042723382973,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3291,
+      "sensor": "gvfs-goa-volume-monitor",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.04156740831140202,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3302,
+      "sensor": "evolution-addressbook-factory",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.1880804759227318,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3307,
+      "sensor": "gvfs-mtp-volume-monitor",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.03981746860823745,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3317,
+      "sensor": "gvfs-afc-volume-monitor",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.05001276948754411,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3329,
+      "sensor": "gvfs-gphoto2-volume-monitor",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.04258186611033801,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3361,
+      "sensor": "gjs",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.16799421150379926,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3385,
+      "sensor": "tracker-miner-fs-3",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.2809033645253745,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3386,
+      "sensor": "ibus-engine-simple",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.04395138413890159,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3424,
+      "sensor": "gvfsd-trash",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.057190058415016204,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3452,
+      "sensor": "xdg-desktop-portal",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.09015993688043575,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3458,
+      "sensor": "xdg-desktop-portal-gnome",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 1.4026907985887878,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3509,
+      "sensor": "xdg-desktop-portal-gtk",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.160994452691141,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3530,
+      "sensor": "gjs",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.3845809515766323,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3597,
+      "sensor": "gvfsd-metadata",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.044509335928316386,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3762,
+      "sensor": "firefox",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 16.0,
+      "sensor_02": 4.659911899412451,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3935,
+      "sensor": "Socket Process",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.3081922793167525,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3966,
+      "sensor": "Privileged Cont",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 1.0613003878018552,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 3970,
+      "sensor": "RDD Process",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.3555167356371163,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 4012,
+      "sensor": "snap",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.1295969838140722,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 4339,
+      "sensor": "WebExtensions",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.6338078713302306,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 4707,
+      "sensor": "Utility Process",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.3947508910109655,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 4724,
+      "sensor": "Isolated Web Co",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 3.786235481523807,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 4737,
+      "sensor": "Isolated Web Co",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 1.8961484334362246,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 4852,
+      "sensor": "update-notifier",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.19743884911791626,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 4877,
+      "sensor": "Isolated Web Co",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 1.9742616839542957,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 4921,
+      "sensor": "Isolated Web Co",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.887675935513961,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 4977,
+      "sensor": "Isolated Web Co",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 1.017627979557661,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5139,
+      "sensor": "Isolated Web Co",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 1.929169034791591,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5310,
+      "sensor": "oosplash",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.03966529993839705,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5328,
+      "sensor": "soffice.bin",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 1.918948372467311,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5383,
+      "sensor": "code",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 1.636929104363107,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5389,
+      "sensor": "code",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.5848095596416225,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5390,
+      "sensor": "code",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.5893746197368344,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5392,
+      "sensor": "code",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.12564059839822186,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5411,
+      "sensor": "chrome_crashpad_handler",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.019908734304118724,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5429,
+      "sensor": "code",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 1.0295478586951587,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5433,
+      "sensor": "code",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.7467931086867261,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5447,
+      "sensor": "code",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 2.6236161210532205,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5521,
+      "sensor": "code",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 1.775580124032683,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5543,
+      "sensor": "code",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 0.986788462470007,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5602,
+      "sensor": "code",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 1.0250842443798405,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5603,
+      "sensor": "code",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 1.085419121971558,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5639,
+      "sensor": "bash",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.034593010943717126,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5642,
+      "sensor": "bash",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.0355567458527063,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5757,
+      "sensor": "code",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.8432680453655383,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5776,
+      "sensor": "code",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 2.556585821988525,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5784,
+      "sensor": "bash",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.03548066151778611,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5922,
+      "sensor": "gvfsd-network",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.053538010338846656,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5931,
+      "sensor": "gvfsd-smb-browse",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.14798403141978694,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 5939,
+      "sensor": "gvfsd-dnssd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.054704636807623046,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 6066,
+      "sensor": "nautilus",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 1.3662717636069859,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 6101,
+      "sensor": "gvfsd-recent",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.06677668461496127,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 6189,
+      "sensor": "gnome-terminal-server",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 0.3640889040381253,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 6202,
+      "sensor": "bash",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.03510023984318512,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 6378,
+      "sensor": "kworker/4:0-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 6381,
+      "sensor": "kworker/3:0-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 6383,
+      "sensor": "kworker/6:3-cgroup_destroy",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 6581,
+      "sensor": "Isolated Web Co",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.8661947916214916,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 6751,
+      "sensor": "kworker/11:3-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 7556,
+      "sensor": "kworker/u65:1-events_unbound",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 7598,
+      "sensor": "kworker/u69:4-ttm",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 7622,
+      "sensor": "kworker/u68:5-ttm",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 7642,
+      "sensor": "kworker/u66:1-events_power_efficient",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 7674,
+      "sensor": "Isolated Web Co",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 1.2477830926912628,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 7714,
+      "sensor": "Isolated Web Co",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 0.6084971492467778,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 7717,
+      "sensor": "Isolated Servic",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 0.5710890179110133,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 7849,
+      "sensor": "kworker/10:2-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 8149,
+      "sensor": "kworker/6:0-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 8152,
+      "sensor": "kworker/9:1-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 8154,
+      "sensor": "kworker/u66:0-events_unbound",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 8371,
+      "sensor": "bash",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.03436475793895652,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 8378,
+      "sensor": "bash",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.03413650493419593,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 8384,
+      "sensor": "bash",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.03428867360403633,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 8390,
+      "sensor": "bash",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.034390119383929926,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 8396,
+      "sensor": "bash",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.03393361337440873,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 8508,
+      "sensor": "fwupd",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.27337101536827485,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 8672,
+      "sensor": "Isolated Web Co",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 1.036167195833216,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 8725,
+      "sensor": "Isolated Web Co",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.5962222098796524,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 8728,
+      "sensor": "Isolated Web Co",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 0.5976678122431361,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 8864,
+      "sensor": "Isolated Web Co",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 1.116816590848627,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 8891,
+      "sensor": "Web Content",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.49804805638762234,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 8980,
+      "sensor": "kworker/u64:1-sdma0",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9020,
+      "sensor": "kworker/0:0-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9056,
+      "sensor": "Web Content",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.49234173126860736,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9059,
+      "sensor": "Web Content",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.4996458274209465,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9102,
+      "sensor": "kworker/u69:3-ttm",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9121,
+      "sensor": "kworker/u65:0-events_unbound",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9148,
+      "sensor": "kworker/u68:1-ttm",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9175,
+      "sensor": "kworker/9:0-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9199,
+      "sensor": "kworker/1:0-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9217,
+      "sensor": "code",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0.8429890694708309,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9280,
+      "sensor": "kworker/1:3-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9296,
+      "sensor": "kworker/12:2-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9297,
+      "sensor": "kworker/13:2-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9308,
+      "sensor": "kworker/4:1-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9317,
+      "sensor": "kworker/8:3-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9346,
+      "sensor": "kworker/5:2-mm_percpu_wq",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9415,
+      "sensor": "kworker/2:1-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9417,
+      "sensor": "kworker/11:0-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9657,
+      "sensor": "kworker/u66:2-events_power_efficient",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9658,
+      "sensor": "kworker/u65:2-flush-259:0",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9689,
+      "sensor": "kworker/7:2-mm_percpu_wq",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9690,
+      "sensor": "kworker/2:3-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9731,
+      "sensor": "kworker/u66:4-flush-259:0",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9831,
+      "sensor": "kworker/u68:0-ttm",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9843,
+      "sensor": "kworker/14:2-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9844,
+      "sensor": "kworker/14:3-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9900,
+      "sensor": "kworker/u69:1-ttm",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9920,
+      "sensor": "kworker/u64:2-mt76",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 9924,
+      "sensor": "kworker/u68:2-ttm",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10052,
+      "sensor": "kworker/10:0-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10062,
+      "sensor": "kworker/u68:3-ttm",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10098,
+      "sensor": "kworker/u64:0-gfx",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0.3,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10099,
+      "sensor": "kworker/u69:0-ttm",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10100,
+      "sensor": "kworker/u69:2",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10127,
+      "sensor": "kworker/15:0-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10133,
+      "sensor": "kworker/6:1-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10144,
+      "sensor": "kworker/u65:4",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10145,
+      "sensor": "kworker/3:2-mm_percpu_wq",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10150,
+      "sensor": "kworker/8:0-cgroup_destroy",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10356,
+      "sensor": "python",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 105.4,
+      "sensor_02": 4.949412793783808,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10400,
+      "sensor": "kworker/u68:4",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10435,
+      "sensor": "kworker/2:0-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10436,
+      "sensor": "kworker/2:2",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10554,
+      "sensor": "kworker/12:1",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10641,
+      "sensor": "kworker/u66:3",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10643,
+      "sensor": "kworker/4:2-events",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10644,
+      "sensor": "vidmem lazy free",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10645,
+      "sensor": "UVM GPU1 BH",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    },
+    {
+      "id": 10646,
+      "sensor": "UVM GPU1 KC",
+      "reason": "Anomaly detected based on reconstruction error",
+      "sensor_01": 0,
+      "sensor_02": 0,
+      "sensor_03": 3895.7486875,
+      "sensor_04": 1.16943359375,
+      "sensor_05": 420
+    }
+  ]
+}
