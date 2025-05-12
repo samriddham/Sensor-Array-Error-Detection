@@ -23,8 +23,14 @@ Instructions to Execute the Source Code -
     number of anomalies depend on the native server it is working on as well as training time. This method can be used in smart data 
     centre for their server energy reduction and optimisation.
 
-Note: 1) An example .json log is provided as ExampleJSONLogFile.json.
-      2) On some systems, a warning stating "oneDNN custom operations are on. You may see slightly different numerical results due to 
-      floating-point round-off errors from different computation orders. To turn them off, set the environment variable 
-      `TF_ENABLE_ONEDNN_OPTS=0`" is seen. This warning does not affect the program and is due TensorFlow library version differences 
-      on different systems.
+**Note:**
+
+1) An example `.json` log is provided as `ExampleJSONLogFile.json`.
+
+2) On some systems, a warning stating  
+   *"oneDNN custom operations are on. You may see slightly different numerical results due to  
+   floating-point round-off errors from different computation orders. To turn them off, set the environment variable  
+   `TF_ENABLE_ONEDNN_OPTS=0`"*  
+   is seen. This warning does not affect the program and is due to TensorFlow library version differences  
+   on different systems.
+
